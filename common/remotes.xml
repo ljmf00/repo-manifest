@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!-- Github service provider -->
+	<remote name="github"
+		fetch="https://github.com"
+		pushurl="ssh://git@github.com" />
+
+	<!-- Gitlab service provider -->
+	<remote name="gitlab"
+		fetch="https://gitlab.com"
+		pushurl="ssh://git@gitlab.com" />
+
+	<!-- Bitbucket service provider -->
+	<remote name="bitbucket"
+		fetch="https://bitbucket.org"
+		pushurl="ssh://git@bitbucket.org" />
+</manifest>

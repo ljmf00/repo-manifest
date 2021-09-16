@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="collab/github/dlang/dmd" name="dlang/dmd" groups="d,dlang-org" />
+	<project path="collab/github/dlang/druntime" name="dlang/druntime" groups="d,dlang-org" />
+	<project path="collab/github/dlang/phobos" name="dlang/phobos" groups="d,dlang-org" />
+</manifest>
