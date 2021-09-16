@@ -7,5 +7,6 @@
 		sync-s="true" />
 	<!-- Projects -->
 	<include name="projects/dlang.xml" />
+	<include name="projects/llvm.xml" />
 	<include name="projects/personal.xml" />
 </manifest>
