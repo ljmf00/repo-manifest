@@ -3,18 +3,22 @@
 	<!-- Github service provider -->
 	<remote name="github"
 		fetch="https://github.com"
-		pushurl="ssh://git@github.com" />
+		pushurl="ssh://git@github.com"
+		alias="origin" />
 	<remote name="github-private"
 		fetch="ssh://git@github.com"
-		pushurl="ssh://git@github.com" />
+		pushurl="ssh://git@github.com"
+		alias="origin" />
 
 	<!-- Gitlab service provider -->
 	<remote name="gitlab"
 		fetch="https://gitlab.com"
-		pushurl="ssh://git@gitlab.com" />
+		pushurl="ssh://git@gitlab.com"
+		alias="origin" />
 
 	<!-- Bitbucket service provider -->
 	<remote name="bitbucket"
 		fetch="https://bitbucket.org"
-		pushurl="ssh://git@bitbucket.org" />
+		pushurl="ssh://git@bitbucket.org"
+		alias="origin" />
 </manifest>
