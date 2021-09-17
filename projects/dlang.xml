@@ -5,6 +5,7 @@
 	<project path="collab/github/dlang/phobos" name="dlang/phobos" groups="dlang,dlang-org" />
 	<project path="collab/github/dlang/dlang.org" name="dlang/dlang.org" groups="dlang,dlang-org" />
 	<project path="collab/github/dlang/dub" name="dlang/dub" groups="dlang,dlang-org" />
+	<project path="collab/github/dlang/tools" name="dlang/tools" groups="dlang,dlang-org" />
 
 	<project path="collab/github/dlang-community/libdparse" name="dlang-community/libdparse" groups="dlang,dlang-community" />
 </manifest>
