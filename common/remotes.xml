@@ -21,4 +21,10 @@
 		fetch="https://bitbucket.org"
 		pushurl="ssh://git@bitbucket.org"
 		alias="origin" />
+
+	<!-- GNU GCC Git server -->
+	<remote name="gcc"
+		fetch="https://gcc.gnu.org/git"
+		pushurl="ssh://gcc.gnu.org/git"
+		alias="origin" />
 </manifest>
