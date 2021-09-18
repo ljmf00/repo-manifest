@@ -3,4 +3,9 @@
 	<project path="fromscratch/github/ljmf00/lsferreira.net" name="ljmf00/lsferreira.net"
 		remote="github-private" groups="personal"
 		sync-s="false" />
+	<project path="fromscratch/github/ljmf00/lsferreira.net-static" name="ljmf00/lsferreira.net-static"
+		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/demangler" name="ljmf00/demangler"
+		remote="github-private" groups="personal" />
 </manifest>
