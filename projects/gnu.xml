@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="collab/github/gnu/gcc" name="gcc" remote="gcc" revision="main" groups="gnu,gcc" />
+	<project path="collab/github/gnu/gcc" name="gcc" remote="gcc" groups="gnu,gcc" />
 </manifest>
