@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<project path="collab/github/llvm/llvm-project" name="llvm/llvm-project" revision="main" groups="llvm,llvm-project" />
+	<project path="collab/github/llvm/lldb-d" name="ljmf00/lldb-d" revision="main" groups="llvm,llvm-project" />
 </manifest>
