@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<include name="common/remotes.xml" />
+	<include name="common/utility.xml" />
 	<default revision="refs/heads/master"
 		remote="github"
 		sync-j="30"
