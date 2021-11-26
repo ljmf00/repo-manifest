@@ -10,4 +10,5 @@
 	<include name="projects/llvm.xml" />
 	<include name="projects/gnu.xml" />
 	<include name="projects/personal.xml" />
+	<include name="projects/archlinux.xml" />
 </manifest>

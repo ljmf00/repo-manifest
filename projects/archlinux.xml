@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="collab/archlinux/aur/riseup-vpn" name="riseup-vpn" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/serve-d-git" name="serve-d-git" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/gitter" name="gitter" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/autopsy" name="autopsy" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/autopsy-bin" name="autopsy-bin" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/qt-installer-framework" name="qt-installer-framework" remote="archlinux-aur" groups="archlinux,aur" />
+</manifest>
+
