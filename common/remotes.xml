@@ -27,4 +27,10 @@
 		fetch="https://gcc.gnu.org/git"
 		pushurl="ssh://gcc.gnu.org/git"
 		alias="origin" />
+
+	<!-- AUR Archlinux Git server -->
+	<remote name="archlinux-aur"
+		fetch="https://aur.archlinux.org"
+		pushurl="ssh://aur@aur.archlinux.org"
+		alias="origin" />
 </manifest>
