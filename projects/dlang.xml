@@ -9,4 +9,6 @@
 	<project path="collab/github/dlang/dips" name="dlang/DIPs" groups="dlang,dlang-org" />
 
 	<project path="collab/github/dlang-community/libdparse" name="dlang-community/libdparse" groups="dlang,dlang-community" />
+
+	<project path="collab/github/ldc-developers/ldc" name="ldc-developers/ldc" groups="dlang,dlang-ldc" />
 </manifest>
