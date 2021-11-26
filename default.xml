@@ -6,8 +6,10 @@
 		remote="github"
 		sync-j="30"
 		sync-s="true" />
+
 	<!-- Projects -->
 	<include name="projects/dlang.xml" />
+	<include name="projects/epslon.xml" />
 	<include name="projects/llvm.xml" />
 	<include name="projects/gnu.xml" />
 	<include name="projects/personal.xml" />
