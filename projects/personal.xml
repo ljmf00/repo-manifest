@@ -8,7 +8,4 @@
 
 	<project path="fromscratch/github/ljmf00/demangler" name="ljmf00/demangler"
 		remote="github-private" groups="personal" />
-
-	<project path="fromscratch/github/ljmf00/convcov" name="ljmf00/convcov"
-		remote="github-private" groups="personal" />
 </manifest>
