@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="fromscratch/github/ljmf00/convcov" name="ljmf00/convcov"
+	<project path="fromscratch/github/convcov/convcov" name="convcov/convcov"
 		remote="github-private" groups="personal" />
 </manifest>
