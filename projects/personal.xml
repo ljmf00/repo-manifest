@@ -6,10 +6,13 @@
 
 	<project path="fromscratch/github/ljmf00/cv" name="ljmf00/cv"
 		remote="github-private" groups="personal" />
-		
+
 	<project path="fromscratch/github/ljmf00/lsferreira.net-static" name="ljmf00/lsferreira.net-static"
 		remote="github-private" groups="personal" />
 
 	<project path="fromscratch/github/ljmf00/demangler" name="ljmf00/demangler"
+		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/tasks" name="ljmf00/tasks"
 		remote="github-private" groups="personal" />
 </manifest>
