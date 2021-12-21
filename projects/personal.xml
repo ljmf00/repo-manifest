@@ -15,4 +15,7 @@
 
 	<project path="fromscratch/github/ljmf00/tasks" name="ljmf00/tasks"
 		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/dwarf-docs" name="ljmf00/dwarf-docs"
+		remote="github-private" groups="personal" />
 </manifest>
