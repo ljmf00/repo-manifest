@@ -23,4 +23,7 @@
 
 	<project path="fromscratch/github/ljmf00/musiclist" name="ljmf00/musiclist"
 		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/rts5139" name="ljmf00/rts5139"
+		remote="github-private" groups="personal" />
 </manifest>
