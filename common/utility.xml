@@ -4,5 +4,6 @@
 	<project path="utility" name="ljmf00/repo-utils" remote="github">
 		<linkfile src="edit-manifest" dest="edit-manifest" />
 		<linkfile src="vproject-manifest" dest="vproject-manifest" />
+		<linkfile src="github-aur-sync" dest="github-aur-sync" />
 	</project>
 </manifest>
