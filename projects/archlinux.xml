@@ -3,9 +3,21 @@
 	<project path="collab/archlinux/aur/riseup-vpn" name="riseup-vpn" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/serve-d-git" name="serve-d-git" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/gitter" name="gitter" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/gitter-bin" name="gitter-bin" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/autopsy" name="autopsy" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/autopsy-bin" name="autopsy-bin" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/sleuthkit-java" name="sleuthkit-java" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/qt-installer-framework" name="qt-installer-framework" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/railwayapp-cli" name="railwayapp-cli" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/arcanist-ssl-stable-git" name="arcanist-ssl-stable-git" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/getmail" name="getmail" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/patator" name="patator" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/discourse" name="discourse" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/python2-empy" name="python2-empy" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/python2-ipaddr" name="python2-ipaddr" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/python-adb" name="python-adb" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/python2-pyspotify" name="python2-pyspotify" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/ruby-cabin" name="ruby-cabin" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/ruby-stud" name="ruby-stud" remote="archlinux-aur" groups="archlinux,aur" />
 </manifest>
 
