@@ -20,4 +20,7 @@
 
 	<project path="fromscratch/github/ljmf00/archlinux" name="ljmf00/archlinux"
 		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/musiclist" name="ljmf00/musiclist"
+		remote="github-private" groups="personal" />
 </manifest>
