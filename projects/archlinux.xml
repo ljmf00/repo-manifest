@@ -19,5 +19,20 @@
 	<project path="collab/archlinux/aur/python2-pyspotify" name="python2-pyspotify" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/ruby-cabin" name="ruby-cabin" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/ruby-stud" name="ruby-stud" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/python2-pysvn" name="python2-pysvn" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/python2-twitter" name="python2-twitter" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/apaste" name="apaste" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/i3-battery-popup" name="i3-battery-popup" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/vulkan-headers-git" name="vulkan-headers-git" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/vuurmuur" name="vuurmuur" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/rts5139-dkms" name="rts5139-dkms" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/ros-catkin" name="ros-catkin" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/ruby-origami" name="ruby-origami" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/dnssec-trigger" name="dnssec-trigger" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/aurorafw-git" name="aurorafw-git" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/python2-pysmb" name="python2-pysmb" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/enum-shares-git" name="enum-shares-git" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/jasmin" name="jasmin" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/python2-cairosvg" name="python2-cairosvg" remote="archlinux-aur" groups="archlinux,aur" />
 </manifest>
 
