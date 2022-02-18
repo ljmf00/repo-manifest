@@ -34,5 +34,6 @@
 	<project path="collab/archlinux/aur/enum-shares-git" name="enum-shares-git" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/jasmin" name="jasmin" remote="archlinux-aur" groups="archlinux,aur" />
 	<project path="collab/archlinux/aur/python2-cairosvg" name="python2-cairosvg" remote="archlinux-aur" groups="archlinux,aur" />
+	<project path="collab/archlinux/aur/ungoogled-chromium" name="ungoogled-chromium" remote="archlinux-aur" groups="archlinux,aur" />
 </manifest>
 
