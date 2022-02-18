@@ -26,4 +26,7 @@
 
 	<project path="fromscratch/github/ljmf00/rts5139" name="ljmf00/rts5139"
 		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/ipfs-gw-loadbalancer" name="ljmf00/ipfs-gw-loadbalancer"
+		remote="github-private" groups="personal" />
 </manifest>
