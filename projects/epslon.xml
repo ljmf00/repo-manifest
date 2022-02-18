@@ -4,5 +4,10 @@
 		name="epslon-dlang/riphobos"
 		groups="epslon-dlang"
 		revision="main" />
+
+	<project path="fork/github/epslon-dlang/dmdlint"
+		name="epslon-dlang/dmdlint"
+		groups="epslon-dlang"
+		revision="main" />
 </manifest>
 
