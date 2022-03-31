@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="fork/github/pre-commit-fork/pre-commit"
+		name="pre-commit-fork/pre-commit"
+		groups="pre-commit-fork"
+		revision="main" />
+
+	<project path="fork/github/pre-commit-fork/run-action"
+		name="pre-commit-fork/run-action"
+		groups="pre-commit-fork"
+		revision="main" />
+</manifest>
