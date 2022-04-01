@@ -29,4 +29,7 @@
 
 	<project path="fromscratch/github/ljmf00/ipfs-gw-loadbalancer" name="ljmf00/ipfs-gw-loadbalancer"
 		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/setup-lua" name="ljmf00/setup-lua"
+		remote="github-private" groups="personal" />
 </manifest>
