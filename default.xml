@@ -14,5 +14,5 @@
 	<include name="projects/gnu.xml" />
 	<include name="projects/personal.xml" />
 	<include name="projects/archlinux.xml" />
-	<include name="projects/pre-commit.xml" />
+	<include name="projects/before-commit.xml" />
 </manifest>
