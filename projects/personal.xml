@@ -32,4 +32,7 @@
 
 	<project path="fromscratch/github/ljmf00/setup-lua" name="ljmf00/setup-lua"
 		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/metrics" name="ljmf00/metrics"
+		remote="github-private" groups="personal" />
 </manifest>
