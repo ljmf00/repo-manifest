@@ -35,4 +35,7 @@
 
 	<project path="fromscratch/github/ljmf00/metrics" name="ljmf00/metrics"
 		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/ljmf00/leb128" name="ljmf00/leb128"
+		remote="github-private" groups="personal" />
 </manifest>
