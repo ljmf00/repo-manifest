@@ -38,4 +38,8 @@
 
 	<project path="fromscratch/github/ljmf00/leb128" name="ljmf00/leb128"
 		remote="github-private" groups="personal" />
+
+	<project path="fromscratch/github/devtty63/pull-cron" name="devtty63/pull-cron"
+		revision="main"
+		remote="github-private" groups="personal" />
 </manifest>
